@@ -6,3 +6,5 @@ https://github.com/typicode/json-server
 3-) npm run build
 4-) npm run start
 5-) npm run json-server
+
+![alt text](https://github.com/mertefecerit/json-server-crud-example/blob/master/image.png)
